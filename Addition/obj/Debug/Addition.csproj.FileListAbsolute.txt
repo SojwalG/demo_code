@@ -1,0 +1,7 @@
+C:\Class Demos\2022\7.30 to 8.30 Morning\Addition\Addition\bin\Debug\Addition.exe.config
+C:\Class Demos\2022\7.30 to 8.30 Morning\Addition\Addition\bin\Debug\Addition.exe
+C:\Class Demos\2022\7.30 to 8.30 Morning\Addition\Addition\bin\Debug\Addition.pdb
+C:\Class Demos\2022\7.30 to 8.30 Morning\Addition\Addition\obj\Debug\Addition.csproj.AssemblyReference.cache
+C:\Class Demos\2022\7.30 to 8.30 Morning\Addition\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+C:\Class Demos\2022\7.30 to 8.30 Morning\Addition\Addition\obj\Debug\Addition.exe
+C:\Class Demos\2022\7.30 to 8.30 Morning\Addition\Addition\obj\Debug\Addition.pdb
